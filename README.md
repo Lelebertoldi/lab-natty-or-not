@@ -27,16 +27,21 @@ Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Vidnoz AI
+ChatGPT
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+https://share.vidnoz.com/aivideo?id=4683326
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O termo "natty" geralmente é usado para descrever algo que é natural, quando se trata de criar algo "natty" com Inteligência Artificial, o desafio está em replicar a complexidade e a profundidade das características humanas, como criatividade, originalidade e espontaneidade.
+Embora a IA tenha avançado significativamente na capacidade de realizar tarefas específicas e reproduzir padrões existentes, como escrever textos ou gerar imagens, ela ainda enfrenta dificuldades em alcançar o nível de autenticidade associado à criatividade humana.
 
 ### Exemplos e Insigths
 
