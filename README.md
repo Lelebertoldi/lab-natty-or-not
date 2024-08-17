@@ -37,7 +37,7 @@ Utilizando o ChatGPT no auxílio de criação de textos e o Vidnoz IA na criaç�
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-https://share.vidnoz.com/aivideo?id=4683326
+# [Meu Projeto de vídeo IA](https://share.vidnoz.com/aivideo?id=4683326)
 https://github.com/Lelebertoldi/lab-natty-or-not
 
 ## 💭 Reflexão (Opcional)
