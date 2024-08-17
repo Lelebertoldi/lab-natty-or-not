@@ -1,5 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
+# [Meu Projeto de vídeo IA](https://share.vidnoz.com/aivideo?id=4683326)
+
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
@@ -37,7 +39,7 @@ Utilizando o ChatGPT no auxílio de criação de textos e o Vidnoz IA na criaç�
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-# [Meu Projeto de vídeo IA](https://share.vidnoz.com/aivideo?id=4683326)
+https://share.vidnoz.com/aivideo?id=4683326
 https://github.com/Lelebertoldi/lab-natty-or-not
 
 ## 💭 Reflexão (Opcional)
